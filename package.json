@@ -1,0 +1,22 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "One of my favorite apps is Google Keep. I like it because of the simplicity and its accessible from almost anywhere. This project is going to be my attempt at making a similar app that I can use for taking notes and organizing my thoughts. The final app should be able to retrieve saved notes, add new notes, and delete old notes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sstephensMCSE/Note-Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sstephensMCSE/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/sstephensMCSE/Note-Taker#readme"
+}
