@@ -14,7 +14,7 @@ app.use(express.static('./'));
 
 // Links to files I will use for calling HTML and API routes.
 //require("./routes/apiRoutes")(app);
-//require("./reoutes/htmlRoutes")(app);
+require("./routes/htmlRoutes")(app);
 
 // Starts the server to begin listening.
 app.listen(PORT, function () {
