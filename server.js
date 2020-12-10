@@ -13,7 +13,7 @@ app.use(express.static(__dirname + '/public'));
 app.use(express.static('./'));
 
 // Links to files I will use for calling HTML and API routes.
-//require("./routes/apiRoutes")(app);
+require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
 // Starts the server to begin listening.

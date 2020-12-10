@@ -1,6 +1,6 @@
 const path = require("path");
 
-module.exports = (app) => {
+module.exports = function(app) {
 
     // GET /notes - Should return the notes.html file.
     app.get("/notes", function (req, res) {
