@@ -6,7 +6,7 @@ One of my favorite apps is Google Keep. I like it because of the simplicity and 
 ## Installation
 install node.js, run npm init, run npm i. The live version of this application will be deployed with Heroku. The frontend was already created in the homework folder, so my job is to create the backend code, and deploy the app. I copied the project from the homework template folder. There is a package.json included so I use npm install to install the dependencies.
 
-<img src="https://github.com/sstephensMCSE/template-engine-employee-summary/blob/main/pics/npm-install.jpg" width="500" title="NPM-Install">
+<img src="https://github.com/sstephensMCSE/Note-Taker/blob/main/pics/herokudeploy.jpg" width="500" title="Heroku deploy">
 
 ## Project Overview
 - AS A user, I want to be able to write and save notes
@@ -19,8 +19,6 @@ install node.js, run npm init, run npm i. The live version of this application w
 - Application should allow users to view previously saved notes.
 - Application should allow users to delete previously saved notes.
  
-## Psuedo Code
-
 
 ## Technology
 - HTML
@@ -31,6 +29,4 @@ install node.js, run npm init, run npm i. The live version of this application w
 
 ## Demonstration
 
-<img src="https://github.com/sstephensMCSE/template-engine-employee-summary/blob/main/pics/team-app.jpg" width="500" title="team-app">
-
-<img src="https://github.com/sstephensMCSE/template-engine-employee-summary/blob/main/pics/output.jpg" width="800" title="output">
+<img src="https://github.com/sstephensMCSE/Note-Taker/blob/main/pics/app1.jpg" width="500" title="note-taking-app">
